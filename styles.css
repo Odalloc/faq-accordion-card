@@ -60,7 +60,7 @@ main {
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   max-width: 300px;
   padding: 2em;
-  margin-block: 13em 6em;
+  margin-block: 13em 2em;
 }
 
 .faq-woman-img-mbl {
