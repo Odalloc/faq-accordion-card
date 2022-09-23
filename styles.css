@@ -97,6 +97,10 @@ main {
   color: var(--txt-dark-grayish-blue);
 }
 
+ .faq-question p {
+   white-space: nowrap;
+ }
+
 .faq-question:hover {
   color: var(--txt-soft-red);
 }
@@ -131,10 +135,6 @@ main {
     padding: 2.5em;
     top: -12em;
     margin-bottom: -13em;
-  }
-
-  .faq-question p {
-    white-space: nowrap;
   }
 
   .faq-answer {
