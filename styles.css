@@ -141,6 +141,7 @@ main {
 @media (min-width: 1200px) {
   .faq-card {
     max-width: 900px;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
     margin-top: 6em;
     background: var(--bg-white) url("images/bg-pattern-desktop.svg") no-repeat -25em -18em
       fixed;
